@@ -1,0 +1,65 @@
+.heading {
+    margin-top: 0px;
+    font-size: 30px;
+    font-style: italic;
+    margin-bottom: 5px;
+    width: 100%;
+    background-color: black;
+    color: blue;
+    height: 60px;
+    text-align: left;
+
+}
+
+.instructions {
+    margin-top: 0px;
+    background-color: black;
+    color: blue;
+    font-size: 25px;
+    float: right;
+
+}
+
+.play {
+    font-size: 25px;
+    font-style: italic;
+    background-color: black;
+    color: blue;
+}
+
+#canvas {
+margin-top: 20px;
+}
+
+#status {
+    background-color: black;
+    color: blue;
+    width: fit-content;
+    border-style: solid;
+    border-color: aqua;
+    border-width: 5px;
+}
+
+.again{
+    background-color: black;
+    color: blue;
+
+}
+.modal-dialog{
+    width: 90%;
+
+}
+h4{
+    background-color: beige;
+    line-height: 2;
+    margin: 0px;
+    text-align: left;
+}
+#footer{
+
+    background-color: yellow;
+    width: 100%;
+    bottom: 0;
+    position:fixed;
+   
+}
